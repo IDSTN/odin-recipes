@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(169, 218, 218);
+}
+#Hash {
+    text-align: center;
+    font-size: 45px;
+    background-color: rgb(196, 186, 175);
+    color: rgb(250, 248, 245);
+}
+img {
+    width: 1000px;
+    height: 800px;
+}
+#p {
+    font-size: 20px;
+    color: rgb(133, 88, 88);
+    font-weight: bolder;
+
+}
+#In {
+    font-size: 30px;
+    color: rgb(73, 47, 47);
+    text-align: center;
+    font-weight: bold;
+}
+ul {
+    color: rgb(221, 21, 21)
+    font-size: 20px;
+    font-weight: bolder;
+}
+ol {
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
